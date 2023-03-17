@@ -1,2 +1,4 @@
-# Conversor-de-Monedas
-Proyecto de conversión de monedas y otros
+# Conversor de Monedas
+Proyecto de conversión de monedas echo con Java.
+Usando una base de datos externa para los valores de conversion
+y con la libreria "JSON"
